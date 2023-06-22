@@ -20,11 +20,11 @@
 
 стена:
 
-<img src="https://github.com/En1on/project1/blob/main/img/img6.png">
+<img src="https://github.com/En1on/project1/blob/main/img6.png">
 
 враг:
 
-<img src="https://github.com/En1on/project1/blob/main/img/img5.png">
+<img src="https://github.com/En1on/project1/blob/main/img5.png">
 
 результат столкновения со стеной или врагом , это игра вас возращает в начало и отнимает одну жизнь
 
@@ -34,7 +34,7 @@
 
 Вот сама монета:
 
-<img src="https://github.com/En1on/project1/blob/main/img/img4.png">
+<img src="https://github.com/En1on/project1/blob/main/img4.png">
 
 ## как запустить
 
