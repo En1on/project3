@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Language-Python-important" >
 </p>
 
-## Game “Labirint”
+## Игра года!!!!!!!
 
 Игра находиться в бета тесте (если его можно так называть) и в будущем планируесться развитие данного проекта
 
